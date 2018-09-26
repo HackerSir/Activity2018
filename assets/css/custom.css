@@ -3,6 +3,7 @@ h1 {
     font-size: 2.5rem;
     font-weight: bold;
 }
+
 div.content {
     text-align: left;
 }
@@ -27,11 +28,15 @@ div.box {
     flex-direction: column;
 }
 
-div.inner > h3 {
+div.inner>h3 {
     font-weight: 800;
 }
 
 .inside {
     padding-left: 3rem;
     margin-bottom: 0;
+}
+
+a.button.disabled {
+    pointer-events: none;
 }
