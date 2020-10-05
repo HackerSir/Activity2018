@@ -34,6 +34,7 @@ div.inner>h3 {
 
 .inside {
     text-align: justify;
+    text-justify: distribute;
     padding-left: 3rem;
     margin-bottom: 0;
 }
