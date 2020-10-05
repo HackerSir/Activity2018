@@ -33,6 +33,7 @@ div.inner>h3 {
 }
 
 .inside {
+    text-align: justify;
     padding-left: 3rem;
     margin-bottom: 0;
 }
